@@ -11,7 +11,7 @@
 
 ## Examples
 #### Rendering messages
-![](Screenshot%202023-08-08%20at%208.53.56.png)
+<img width="793" alt="Screenshot 2023-08-08 at 8 53 56" src="https://github.com/paulinagzd/typeface-chat/assets/31547357/3df89989-e298-45dc-858d-cdff40c2b30f">
 
 ### Assumptions
 - Message sender being Me
